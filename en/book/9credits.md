@@ -1,4 +1,4 @@
-# 9.0 Module Credits
+# 9.0 Module/Tutorial Credits
 
 The module myConferenec was originally developed by Daniel Coletti (dcoletti@xtech.com.ar)
 
