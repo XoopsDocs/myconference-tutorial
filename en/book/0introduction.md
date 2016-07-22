@@ -16,7 +16,7 @@ First you need to add a Congress\/Conference with start and end date.
 
 A **Conference** \(or Congress\) is the whole event, the grid will only show the speeches that are between this conference start and end date. So be careful not to place a speech outside the congress'dates.
 
-A **Track **is something used at congresses to organize the speeches, the idea is that a particular person won't have to face \(at least too many times\) the \`\`\`wanna be at two different speeches at the same time\`´´.
+A **Track **is something used at congresses to organize the speeches, the idea is that a particular person won't have to face \(at least not too many times\) the "I want to be at two different presentations at the same time".
 
 So what you do is organize the speeches in thematic tracks \(like: Programming, System Administration, Security, Documentation, Philosophy\). The tracks are shown verticaly, throughout the whole congress, and you can't have a speech that belongs to two different tracks \(sorry, that's not implemented yet\). So be carefull not to have too many tracks \(4, maybe 5 at the most is recommended\).
 
