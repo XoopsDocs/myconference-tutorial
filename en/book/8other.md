@@ -26,6 +26,8 @@
 
 ## Database 
 
+![](../assets/img000071.png)
+
 ####Tables:
 
 - conference_congress 
