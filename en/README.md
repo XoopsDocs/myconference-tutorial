@@ -12,7 +12,7 @@
 
 ## Module Purpose 
 
-This module is for .....
+This module is for creating a Conference event 
 
 ![image001.png](assets/image001.png)
 *Figure 1: Main view of the myConference Module (Admin side)*
