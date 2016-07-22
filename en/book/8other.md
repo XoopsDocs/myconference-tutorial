@@ -1,9 +1,9 @@
 # 8.0 Info for Developers
 
-Events (date / day)
-- Shipping talks by visitors to the site?
+####Events (date / day)
+- Sending of talks info to visitors of the site?
 - Sponsors / Organizer?
- - Ask if they are ordered by alphabetical order
+ - Ask if they are ordered in alphabetical order
  - Categories of sponsors (tick if put in the footer)
 
 #### Blocks:
