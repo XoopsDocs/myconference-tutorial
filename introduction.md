@@ -4,19 +4,19 @@ This module will help you organize a Congress or Conference.The idea is that you
 
 Currently the module lacks of a lot o features I will like it to have, but anyway, it's better to release something useful than have a great project on paper.
 
-#### Features:
+## Features:
 
 * Automatic speeches' program grid creation
 * Multiple tracks, sections, speekers, speeches supported
 * Languages english and spanish- Multiple congresses supported \(but only one can be shown at a time\):
 
-#### Short explanation:
+## Short explanation:
 
 First you need to add a Congress\/Conference with start and end date.
 
 A **Conference** \(or Congress\) is the whole event, the grid will only show the speeches that are between this conference start and end date. So be careful not to place a speech outside the congress'dates.
 
-A **Track **is something used at congresses to organize the speeches, the idea is that a particular person won't have to face \(at least not too many times\) the "I want to be at two different presentations at the same time".
+A **Track** is something used at congresses to organize the speeches, the idea is that a particular person won't have to face \(at least not too many times\) the "I want to be at two different presentations at the same time".
 
 So what you do is organize the speeches in thematic tracks \(like: Programming, System Administration, Security, Documentation, Philosophy\). The tracks are shown verticaly, throughout the whole congress, and you can't have a speech that belongs to two different tracks \(sorry, that's not implemented yet\). So be carefull not to have too many tracks \(4, maybe 5 at the most is recommended\).
 
